@@ -1,2 +1,26 @@
-Last updated: 2026-09-04 12:50:46 WIB
-Last updated: 2026-09-04 12:56:03 WIB
+# odoo-samples
+
+
+
+## 📋 Overview
+
+This repository contains **41 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-04 13:08:09 WIB*
